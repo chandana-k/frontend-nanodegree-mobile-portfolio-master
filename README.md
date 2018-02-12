@@ -2,10 +2,12 @@ Website Optimization:
 
 1. PageSpeed Score: 
 index.html achieved the following PageSpeed scores:
-Mobile Optimization Score: 99
-Desktop Optimization Score: 91
+
+
 Scores Screenshot:
+Desktop Optimization Score: 91
 ![Desktop Pagespeed Screenshot](./img/pagespeed-desktop-optimization.png)
+Mobile Optimization Score: 99
 ![Mobile Pagespeed Screenshot](./img/pagespeed-mobile-optimization.png)
 
 2. Getting Rid of Jank:
