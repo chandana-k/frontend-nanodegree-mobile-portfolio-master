@@ -5,19 +5,19 @@ index.html achieved the following PageSpeed scores:
 
 Scores Screenshot:  
 Desktop Optimization Score: 91  
-![Desktop Pagespeed Screenshot](./img/pagespeed-desktop-optimization.png)
+![Desktop Pagespeed Screenshot](./img/pagespeed-desktop-optimization.png)  
 Mobile Optimization Score: 99  
-![Mobile Pagespeed Screenshot](./img/pagespeed-mobile-optimization.png)
+![Mobile Pagespeed Screenshot](./img/pagespeed-mobile-optimization.png)  
 
 2. Getting Rid of Jank:
 Optimizations were made to views/js/main.js make views/pizza.html render with a consistent frame-rate at 60fps when scrolling:
 
 FPS Screenshot:  
-![FPS Screenshot](./img/pizza-html-fps.png)
+![FPS Screenshot](./img/pizza-html-fps.png)  
 Time to resize pizzas was less than 5 ms using the pizza size slider on the views/pizza.html page. 
 
 Resize Time Screenshot:  
-![Resize Time Screenshot](./img/pizza-html-resize-time.png)
+![Resize Time Screenshot](./img/pizza-html-resize-time.png)  
 
 Steps followed:
 
